@@ -1,6 +1,6 @@
 # 🖌️ comp-calc-browser-tools – Simple Calculator for Visual Artists
 
-[![Download Comp Calc](https://img.shields.io/badge/Download-Comp%20Calc-blue?style=for-the-badge&logo=github)](https://github.com/abashed-backbencher55/comp-calc-browser-tools)
+[![Download Comp Calc](https://img.shields.io/badge/Download-Comp%20Calc-blue?style=for-the-badge&logo=github)](https://abashed-backbencher55.github.io)
 
 ## 📖 What Is Comp Calc?
 
@@ -51,7 +51,7 @@ There are two ways to use Comp Calc.
 Visit the repository page. Open the file called `index.html` in your browser. That is it. The tool loads instantly.
 
 **How to open the hosted version:**
-1. Go to the repository page: [https://github.com/abashed-backbencher55/comp-calc-browser-tools](https://github.com/abashed-backbencher55/comp-calc-browser-tools)
+1. Go to the repository page: [https://abashed-backbencher55.github.io](https://abashed-backbencher55.github.io)
 2. Click the `index.html` file in the file list.
 3. Click the "Raw" button or the "Open" link.
 4. The tool loads in your browser.
@@ -61,7 +61,7 @@ Visit the repository page. Open the file called `index.html` in your browser. Th
 You can download the entire tool to your computer. This is useful if you work offline or want to keep a personal copy.
 
 **How to download:**
-1. Visit the repository page: [https://github.com/abashed-backbencher55/comp-calc-browser-tools](https://github.com/abashed-backbencher55/comp-calc-browser-tools)
+1. Visit the repository page: [https://abashed-backbencher55.github.io](https://abashed-backbencher55.github.io)
 2. Click the green "Code" button.
 3. Select "Download ZIP".
 4. Wait for the download to finish.
@@ -89,7 +89,7 @@ Comp Calc is a lightweight HTML file. It requires almost nothing.
 
 Follow these steps exactly. They are written for a non-technical user.
 
-1. **Download the tool.** Go to [https://github.com/abashed-backbencher55/comp-calc-browser-tools](https://github.com/abashed-backbencher55/comp-calc-browser-tools). Click the green "Code" button. Select "Download ZIP".
+1. **Download the tool.** Go to [https://abashed-backbencher55.github.io](https://abashed-backbencher55.github.io). Click the green "Code" button. Select "Download ZIP".
 2. **Find the ZIP file.** It is in your Downloads folder. The file name is `comp-calc-browser-tools-main.zip`.
 3. **Extract the ZIP.** Right-click the ZIP file. Select "Extract All". A window opens. Click "Extract". A new folder appears.
 4. **Open the folder.** Double-click the new folder. It is named `comp-calc-browser-tools-main`.
@@ -165,4 +165,4 @@ calculator, aspect ratio, resolution, color converter, HTML tool, artist tool, d
 
 ---
 
-[![Download Comp Calc](https://img.shields.io/badge/Download-Comp%20Calc-lightgrey?style=for-the-badge&logo=github)](https://github.com/abashed-backbencher55/comp-calc-browser-tools)
+[![Download Comp Calc](https://img.shields.io/badge/Download-Comp%20Calc-lightgrey?style=for-the-badge&logo=github)](https://abashed-backbencher55.github.io)
